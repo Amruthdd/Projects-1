@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "249964225233",
+    "firebase_url": "https://mukkmess.firebaseio.com",
+    "project_id": "mukkmess",
+    "storage_bucket": "mukkmess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249964225233:android:60d618dfce273edefd1bf0",
+        "android_client_info": {
+          "package_name": "com.mukkmess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249964225233-7oapf3ibkhmir4qg6m69opfiaekrt2a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mukkmess",
+            "certificate_hash": "c7084bec2ee27eb6617aa6cb3d2d08ca6c1d0fb0"
+          }
+        },
+        {
+          "client_id": "249964225233-uncda42ntvj6p1ljrivlr5j488d695uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvwu-vcRJYNqJm6kFzaOOPH20PFNsOeUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249964225233-uncda42ntvj6p1ljrivlr5j488d695uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
